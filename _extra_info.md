@@ -1,7 +1,7 @@
 ---
-blog_root: /blog_posts
-site_title: My Blog
-
+blog_root: /posts
+site_title: Visi
+template_url: https://github.com/telegr-am/template-blue.git
 ---
 
 This file contains _Extra Info_ about your site.  You can
